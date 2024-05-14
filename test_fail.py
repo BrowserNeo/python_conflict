@@ -7,4 +7,4 @@ def test_two():
 
 
 def test_third():
-    assert 2 == 3
+    assert 2 => 3
