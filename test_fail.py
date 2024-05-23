@@ -1,9 +1,9 @@
 def test_one():
-    assert 2 > 4
+    assert 2 > 3
 
 
 def test_two():
-    assert 3 > 5
+    assert 3 > 4
 
 
 def test_third():
